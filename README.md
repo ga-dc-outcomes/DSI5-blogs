@@ -7,12 +7,12 @@ To submit, add your link to the table below:
 | Week          | Link to Blog 				 	|
 | ------------- | ------------------------------|
 | Week 1        | `null` (do not edit)			|
-| Week 2        | `null` (do not edit)			|
+| Week 2        | https://medium.com/@taplapinger/a-convergence-of-language-with-code-a3965d8953e3			|
 | Week 3        | **link**      				|
 | Week 4        | **link**      				|
 | Week 5        | **link**      				|
 | Week 6        | **link**						|
-| Week 7        | **link**						|	
+| Week 7        | **link**						|
 | Week 8        | **link**						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
