@@ -8,7 +8,7 @@ To submit, add your link to the table below:
 | ------------- | ------------------------------|
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
-| Week 3        | **link**      				|
+| Week 3        | https://medium.com/@andygon/blockchains-and-accountable-government-4232f69092dc    				|
 | Week 4        | **link**      				|
 | Week 5        | **link**      				|
 | Week 6        | **link**						|
