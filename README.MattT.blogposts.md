@@ -9,7 +9,7 @@ To submit, add your link to the table below:
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
 | Week 3        | https://medium.com/@mtterribile/why-im-learning-data-science-40d39a0dd9b2     				|
-| Week 4        | **link**      				|
+| Week 4        |https://medium.com/@mtterribile/central-limit-theorem-at-work-a0de13df37dc   				|
 | Week 5        | **link**      				|
 | Week 6        | **link**						|
 | Week 7        | **link**						|
