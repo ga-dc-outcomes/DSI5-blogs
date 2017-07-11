@@ -8,8 +8,8 @@ To submit, add your link to the table below:
 | ------------- | ------------------------------|
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
-| Week 3        | https://medium.com/@andygon/blockchains-and-accountable-government-4232f69092dc    				|
-| Week 4        | **link**      				|
+| Week 3        | https://medium.com/@andygon/blockchains-and-accountable-government-4232f69092dc  
+| Week 4        | https://medium.com/@andygon/2-ways-to-get-data-out-of-your-iphone-600cc60654fe    
 | Week 5        | **link**      				|
 | Week 6        | **link**						|
 | Week 7        | **link**						|	
