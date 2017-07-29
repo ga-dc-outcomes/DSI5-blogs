@@ -8,9 +8,9 @@ To submit, add your link to the table below:
 | ------------- | ------------------------------|
 | Week 1        | `null` (do not edit)			|
 | Week 2        | https://medium.com/@taplapinger/a-convergence-of-language-with-code-a3965d8953e3			|
-| Week 3        | **link**      				|
-| Week 4        | **link**      				|
-| Week 5        | **link**      				|
+| Week 3        | https://medium.com/@taplapinger/what-is-the-best-football-league-in-europe-460a32704e05|
+| Week 4        | https://medium.com/@taplapinger/pandas-basics-walkthrough-youth-unemployment-128064704782    				|
+| Week 5        | https://medium.com/@taplapinger/a-collision-of-terminal-and-github-e14bd07a5d0a   				|
 | Week 6        | **link**						|
 | Week 7        | **link**						|
 | Week 8        | **link**						|
