@@ -11,8 +11,8 @@ To submit, add your link to the table below:
 | Week 3        | https://medium.com/@mtterribile/why-im-learning-data-science-40d39a0dd9b2     				|
 | Week 4        |https://medium.com/@mtterribile/central-limit-theorem-at-work-a0de13df37dc   				|
 | Week 5        |https://medium.com/@mtterribile/learning-from-analyzing-a-large-data-set-c9327d36da12   				|
-| Week 6        | **link**						|
-| Week 7        | **link**						|
+| Week 6        | https://medium.com/@mtterribile/understanding-cross-validations-purpose-53490faf6a86				|
+| Week 7        | https://medium.com/@mtterribile/data-science-or-art-361ce1d100f9					|
 | Week 8        | **link**						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
