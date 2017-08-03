@@ -13,7 +13,7 @@ To submit, add your link to the table below:
 | Week 5        |https://medium.com/@mtterribile/learning-from-analyzing-a-large-data-set-c9327d36da12   				|
 | Week 6        | https://medium.com/@mtterribile/understanding-cross-validations-purpose-53490faf6a86				|
 | Week 7        | https://medium.com/@mtterribile/data-science-or-art-361ce1d100f9					|
-| Week 8        | **link**						|
+| Week 8        | https://medium.com/@mtterribile/data-science-salaries-on-indeed-56eed9666e30						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
 | Week 11       | **link**						|
