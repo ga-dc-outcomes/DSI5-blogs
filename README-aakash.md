@@ -8,11 +8,11 @@ To submit, add your link to the table below:
 | ------------- | ------------------------------|
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
-| Week 3        | **link**      				|
-| Week 4        | **link**      				|
-| Week 5        | **link**      				|
-| Week 6        | **link**						|
-| Week 7        | **link**						|	
+| Week 3        | https://medium.com/@aakashtandel/starting-out-in-data-science-91b734d3df1d      				|
+| Week 4        | https://medium.com/@aakashtandel/web-scraping-indeed-data-science-positions-10024b0dded5     				|
+| Week 5        | https://medium.com/@aakashtandel/iowa-liquor-store-analysis-670cc249203f      				|
+| Week 6        | https://medium.com/towards-data-science/support-vector-machines-a-brief-overview-37e018ae310f						|
+| Week 7        | https://medium.com/@aakashtandel/lessons-from-chicagos-west-nile-problem-2c62bad636c3						|
 | Week 8        | **link**						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
