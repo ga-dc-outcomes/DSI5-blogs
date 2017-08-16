@@ -11,8 +11,8 @@ To submit, add your link to the table below:
 | Week 3        | https://medium.com/@taplapinger/what-is-the-best-football-league-in-europe-460a32704e05|
 | Week 4        | https://medium.com/@taplapinger/pandas-basics-walkthrough-youth-unemployment-128064704782    				|
 | Week 5        | https://medium.com/@taplapinger/a-collision-of-terminal-and-github-e14bd07a5d0a   				|
-| Week 6        | **link**						|
-| Week 7        | **link**						|
+| Week 6        | **https://medium.com/towards-data-science/what-is-a-decision-tree-22975f00f3e1**						|
+| Week 7        | https://medium.com/@taplapinger/tuning-a-random-forest-classifier-1b252d1dde92					|
 | Week 8        | **link**						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
