@@ -13,8 +13,8 @@ To submit, add your link to the table below:
 | Week 5        | **https://www.maram.io/guides/2017/8/9/a-comprehensive-introduction-to-neural-networks**      				|
 | Week 6        | **https://www.maram.io/playing-with-numbers/2017/8/14/kaggle-west-nile-virus-challenge**						|
 | Week 7        | **https://www.maram.io/guides/2017/8/19/math-in-code-sigmoid-function**						|	
-| Week 8        | **link**						|
-| Week 9        | **link**						|
+| Week 8        | **https://www.maram.io/guides/2017/8/19/math-in-code-softmax-function**						|
+| Week 9        | **https://www.maram.io/guides/2017/8/20/math-in-code-relu-function**						|
 | Week 10       | **link**						|
 | Week 11       | **link**						|
 | Week 12       | **link**						|
