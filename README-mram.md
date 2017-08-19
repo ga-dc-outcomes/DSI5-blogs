@@ -9,10 +9,10 @@ To submit, add your link to the table below:
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
 | Week 3        | **https://www.maram.io/playing-with-numbers/2017/6/26/sat-data-2001-a-structured-analysis**      				|
-| Week 4        | **https://www.maram.io/playing-with-numbers/2017/7/10/what-is-the-turing-test**      				|
-| Week 5        | **link**      				|
-| Week 6        | **link**						|
-| Week 7        | **link**						|	
+| Week 4        | **https://www.maram.io/stories/2017/7/10/what-is-the-turing-test**      				|
+| Week 5        | **https://www.maram.io/guides/2017/8/9/a-comprehensive-introduction-to-neural-networks**      				|
+| Week 6        | **https://www.maram.io/playing-with-numbers/2017/8/14/kaggle-west-nile-virus-challenge**						|
+| Week 7        | **https://www.maram.io/guides/2017/8/19/math-in-code-sigmoid-function**						|	
 | Week 8        | **link**						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
