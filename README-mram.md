@@ -15,7 +15,7 @@ To submit, add your link to the table below:
 | Week 7        | **https://www.maram.io/guides/2017/8/19/math-in-code-sigmoid-function**						|	
 | Week 8        | **https://www.maram.io/guides/2017/8/19/math-in-code-softmax-function**						|
 | Week 9        | **https://www.maram.io/guides/2017/8/20/math-in-code-relu-function**						|
-| Week 10       | **link**						|
+| Week 10       | **https://www.maram.io/guides/2017/8/20/math-in-code-sum-of-squared-errors**						|
 | Week 11       | **link**						|
 | Week 12       | **link**						|
 
