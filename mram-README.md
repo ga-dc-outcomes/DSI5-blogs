@@ -16,7 +16,7 @@ To submit, add your link to the table below:
 | Week 8        | **https://www.maram.io/guides/2017/8/19/math-in-code-softmax-function**						|
 | Week 9        | **https://www.maram.io/guides/2017/8/20/math-in-code-relu-function**						|
 | Week 10       | **https://www.maram.io/guides/2017/8/20/math-in-code-sum-of-squared-errors**						|
-| Week 11       | **link**						|
+| Week 11       | **https://www.maram.io/stories/2017/8/20/the-data-science-workflow**						|
 | Week 12       | **link**						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
