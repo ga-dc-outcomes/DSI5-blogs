@@ -12,7 +12,7 @@ To submit, add your link to the table below:
 | Week 4        | https://medium.com/@baursafi/bayes-and-unconditional-love-32ebc1901d9      				|
 | Week 5        | http://www.dativist.com/project-1.html    				|
 | Week 6        | http://www.dativist.com/project-3.html					|
-| Week 7        | **link**						|	
+| Week 7        | https://medium.com/@baursafi/extracting-required-information-with-help-of-regex-34dd23b427da					|	
 | Week 8        | **link**						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
