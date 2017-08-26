@@ -15,7 +15,7 @@ To submit, add your link to the table below:
 | Week 7        | https://medium.com/@mtterribile/data-science-or-art-361ce1d100f9					|
 | Week 8        | https://medium.com/@mtterribile/data-science-salaries-on-indeed-56eed9666e30						|
 | Week 9        | https://medium.com/@mtterribile/predicting-west-nile-virus-c33823e2602b					|
-| Week 10       | **link**						|
+| Week 10       | https://medium.com/@mtterribile/machine-learnings-prominence-in-the-august-s-ieee-spectrum-c386047b0b7f			|
 | Week 11       | **link**						|
 | Week 12       | **link**						|
 
