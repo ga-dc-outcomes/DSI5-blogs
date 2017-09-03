@@ -13,9 +13,9 @@ To submit, add your link to the table below:
 | Week 5        | https://medium.com/@taplapinger/a-collision-of-terminal-and-github-e14bd07a5d0a   				|
 | Week 6        | **https://medium.com/towards-data-science/what-is-a-decision-tree-22975f00f3e1**						|
 | Week 7        | https://medium.com/@taplapinger/tuning-a-random-forest-classifier-1b252d1dde92					|
-| Week 8        | **link**						|
-| Week 9        | **link**						|
-| Week 10       | **link**						|
+| Week 8        |https://medium.com/towards-data-science/visualizing-your-exploratory-data-analysis-d2d6c2e3b30e					|
+| Week 9        | https://medium.com/towards-data-science/global-terror-and-the-eda-visualization-rabbit-hole-a953c998b7e9						|
+| Week 10       |https://medium.com/@taplapinger/a-beginners-guide-to-natural-language-processing-e21e3e016f84				|
 | Week 11       | **link**						|
 | Week 12       | **link**						|
 
