@@ -8,9 +8,9 @@ To submit, add your link to the table below:
 | ------------- | ------------------------------|
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
-| Week 3        | **link**      				|
-| Week 4        | **link**      				|
-| Week 5        | **link**      				|
+| Week 3        | https://bricewolfgang.github.io/blog_c4s.html    				|
+| Week 4        | https://bricewolfgang.github.io/List_Comp_blog.html     				|
+| Week 5        | https://bricewolfgang.github.io/DupeLines.html      				|
 | Week 6        | **link**						|
 | Week 7        | **link**						|	
 | Week 8        | **link**						|
