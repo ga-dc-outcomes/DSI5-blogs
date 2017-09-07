@@ -17,7 +17,7 @@ To submit, add your link to the table below:
 | Week 9        | https://medium.com/@mtterribile/predicting-west-nile-virus-c33823e2602b					|
 | Week 10       | https://medium.com/@mtterribile/machine-learnings-prominence-in-the-august-s-ieee-spectrum-c386047b0b7f			|
 | Week 11       |https://medium.com/@mtterribile/analyzing-patterns-in-global-terrorism-2874eefc1ed6|
-| Week 12       | **link**						|
+| Week 12       | https://medium.com/@mtterribile/a-non-profits-effectiveness-what-influences-it-77da1e4ddf87	|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
