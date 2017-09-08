@@ -17,7 +17,7 @@ To submit, add your link to the table below:
 | Week 9        | ttps://medium.com/@richard.enikeieff/amusing-snippets-i-wrote-at-the-beginning-and-end-of-the-cohort-1674b813c1f5						|
 | Week 10       | https://medium.com/@richard.enikeieff/terrorism-database-analysis-44b0e6206b14						|
 | Week 11       | https://medium.com/@richard.enikeieff/multiple-project-shenanigans-5428835ba08b					|
-| Week 12       | **link**						|
+| Week 12       | https://medium.com/@richard.enikeieff/bridge-shenanigans-d8cde22e7fb5						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
