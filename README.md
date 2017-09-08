@@ -15,8 +15,8 @@ To submit, add your link to the table below:
 | Week 7        | [A Step-by-Step Guide to Set Up Python Scripts for System-Wide Use](https://ailuropoda1864.github.io/portfolio/blog/2017/07/29/python-module-global/)|	
 | Week 8        | [Programatically Check for Updates in GitHub Repos](https://ailuropoda1864.github.io/portfolio/blog/2017/08/05/automate-git-pull/) |
 | Week 9        | [Scheduling Repetitive Tasks Using Crontab](https://ailuropoda1864.github.io/portfolio/blog/2017/08/12/cronjob/)	|
-| Week 10       | **link**						|
-| Week 11       | **link**						|
+| Week 10       | [Some Plotting Functions You May Find Handy](https://ailuropoda1864.github.io/portfolio/blog/2017/08/19/plotting/) |
+| Week 11       | [Save Your Work as You Go](https://ailuropoda1864.github.io/portfolio/blog/2017/08/26/append-to-csv/) |
 | Week 12       | **link**						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
