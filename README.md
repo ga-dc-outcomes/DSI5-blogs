@@ -12,7 +12,7 @@ To submit, add your link to the table below:
 | Week 4        | [Exploratory Data Analysis (II)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/08/eda-ii/) |
 | Week 5        | [Exploratory Data Analysis (III)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/15/eda-iii/) |
 | Week 6        | [Exploratory Data Analysis (IV)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/22/eda-iv/) |
-| Week 7        | **link**						|	
+| Week 7        | [A Step-by-Step Guide to Set Up Python Scripts for System-Wide Use](https://ailuropoda1864.github.io/portfolio/blog/2017/07/29/python-module-global/)|	
 | Week 8        | **link**						|
 | Week 9        | **link**						|
 | Week 10       | **link**						|
