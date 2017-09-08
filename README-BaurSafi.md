@@ -17,8 +17,8 @@ To submit, add your link to the table below:
 | Week 9        | https://medium.com/@baursafi/sql-adding-some-order-in-life-8765cbfd60a2				|
 | Week 10       | https://medium.com/@baursafi/i-never-dreamt-of-becoming-a-writer-7dabb27e6e28			|
 | Week 11       | https://medium.com/@baursafi/youth-unemployment-globally-f4b888bca3aa					|
-					https://medium.com/@baursafi/homelessness-in-the-us-7a524a287386
-| Week 12       | **link**						|
+| Week 11/1     | https://medium.com/@baursafi/homelessness-in-the-us-7a524a287386						|
+| Week 12       | https://medium.com/@baursafi/fake-news-from-definition-to-identification-55604a17f78b	|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
