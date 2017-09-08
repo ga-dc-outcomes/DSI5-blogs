@@ -11,7 +11,7 @@ To submit, add your link to the table below:
 | Week 3        | [Exploratory Data Analysis (I)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/01/eda-i/) |
 | Week 4        | [Exploratory Data Analysis (II)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/08/eda-ii/) |
 | Week 5        | [Exploratory Data Analysis (III)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/15/eda-iii/) |
-| Week 6        | **link**						|
+| Week 6        | [Exploratory Data Analysis (IV)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/22/eda-iv/) |
 | Week 7        | **link**						|	
 | Week 8        | **link**						|
 | Week 9        | **link**						|
