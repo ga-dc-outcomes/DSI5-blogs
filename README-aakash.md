@@ -13,10 +13,10 @@ To submit, add your link to the table below:
 | Week 5        | https://medium.com/@aakashtandel/iowa-liquor-store-analysis-670cc249203f      				|
 | Week 6        | https://medium.com/towards-data-science/support-vector-machines-a-brief-overview-37e018ae310f						|
 | Week 7        | https://medium.com/@aakashtandel/lessons-from-chicagos-west-nile-problem-2c62bad636c3						|
-| Week 8        | **link**						|
-| Week 9        | **link**						|
-| Week 10       | **link**						|
-| Week 11       | **link**						|
+| Week 8        | https://medium.com/towards-data-science/powerlifting-data-and-exploratory-data-analysis-part-1-6f21d79ac5db						|
+| Week 9        | https://medium.com/@aakashtandel/the-basics-of-natural-language-programming-a-big-bag-of-words-2f2ac06638ea						|
+| Week 10       | https://medium.com/@aakashtandel/project-management-in-data-science-and-parkinsons-law-915918d96e6e						|
+| Week 11       | https://medium.com/@aakashtandel/inspiring-resources-for-data-science-ebc097eaa589						|
 | Week 12       | **link**						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
