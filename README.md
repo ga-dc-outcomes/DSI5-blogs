@@ -10,13 +10,13 @@ To submit, add your link to the table below:
 | Week 2        | `null` (do not edit)			|
 | Week 3        | https://medium.com/@andygon/blockchains-and-accountable-government-4232f69092dc  
 | Week 4        | https://medium.com/@andygon/2-ways-to-get-data-out-of-your-iphone-600cc60654fe    
-| Week 5        | **link**      				|
-| Week 6        | **link**						|
-| Week 7        | **link**						|	
-| Week 8        | **link**						|
-| Week 9        | **link**						|
-| Week 10       | **link**						|
-| Week 11       | **link**						|
+| Week 5        | https://medium.com/@andygon/web-scraping-101-43dd87bc3635     				|
+| Week 6        | https://medium.com/@andygon/web-scraping-101-c6230d26cc6c						|
+| Week 7        | https://medium.com/@andygon/eli5-roc-curve-auc-metrics-ac4fe482f018						|	
+| Week 8        | https://medium.com/@andygon/elements-of-a-data-scientists-salary-1dc547f6d888						|
+| Week 9        | https://medium.com/@andygon/hacking-congressional-support-e83eb17bada7						|
+| Week 10       | https://medium.com/@andygon/solving-business-problems-thanks-to-open-data-cf2d18277a42						|
+| Week 11       | https://medium.com/@andygon/creating-a-narrative-with-data-e80786e2475						|
 | Week 12       | **link**						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
