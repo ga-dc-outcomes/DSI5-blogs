@@ -13,8 +13,8 @@ To submit, add your link to the table below:
 | Week 5        | [Exploratory Data Analysis (III)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/15/eda-iii/) |
 | Week 6        | [Exploratory Data Analysis (IV)](https://ailuropoda1864.github.io/portfolio/blog/2017/07/22/eda-iv/) |
 | Week 7        | [A Step-by-Step Guide to Set Up Python Scripts for System-Wide Use](https://ailuropoda1864.github.io/portfolio/blog/2017/07/29/python-module-global/)|	
-| Week 8        | **link**						|
-| Week 9        | **link**						|
+| Week 8        | [Programatically Check for Updates in GitHub Repos](https://ailuropoda1864.github.io/portfolio/blog/2017/08/05/automate-git-pull/) |
+| Week 9        | [Scheduling Repetitive Tasks Using Crontab](https://ailuropoda1864.github.io/portfolio/blog/2017/08/12/cronjob/)	|
 | Week 10       | **link**						|
 | Week 11       | **link**						|
 | Week 12       | **link**						|
