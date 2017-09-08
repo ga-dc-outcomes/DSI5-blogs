@@ -17,8 +17,8 @@ To submit, add your link to the table below:
 | Week 7        | https://medium.com/@yoni.levine/what-1000-phds-got-wrong-8f496b6c2573						|
 | Week 8        | https://medium.com/@yoni.levine/all-of-those-useful-pandas-snippets-that-you-just-cant-seem-to-remember-944c8b4f7e19					|
 | Week 9        | https://medium.com/@yoni.levine/the-big-data-murse-b5dfed8674c2					|
-| Week 10       | **link**						|
-| Week 11       | **link**						|
+| Week 10       | https://medium.com/@yoni.levine/how-to-grid-search-with-a-pipeline-93147835d916				|
+| Week 11       | https://medium.com/@yoni.levine/justice-and-balanced-classes-for-all-64035244c969					|
 | Week 12       | **link**						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
