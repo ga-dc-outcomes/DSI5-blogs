@@ -17,7 +17,7 @@ To submit, add your link to the table below:
 | Week 9        | https://medium.com/@aakashtandel/the-basics-of-natural-language-programming-a-big-bag-of-words-2f2ac06638ea						|
 | Week 10       | https://medium.com/@aakashtandel/project-management-in-data-science-and-parkinsons-law-915918d96e6e						|
 | Week 11       | https://medium.com/@aakashtandel/inspiring-resources-for-data-science-ebc097eaa589						|
-| Week 12       | **link**						|
+| Week 12       | https://medium.com/@aakashtandel/understanding-movie-quality-from-plot-summaries-using-natural-language-processing-b9f24a9171a4						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
