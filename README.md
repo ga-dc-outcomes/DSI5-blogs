@@ -17,7 +17,7 @@ To submit, add your link to the table below:
 | Week 9        | https://medium.com/@andygon/hacking-congressional-support-e83eb17bada7						|
 | Week 10       | https://medium.com/@andygon/solving-business-problems-thanks-to-open-data-cf2d18277a42						|
 | Week 11       | https://medium.com/@andygon/creating-a-narrative-with-data-e80786e2475						|
-| Week 12       | **link**						|
+| Week 12       | https://medium.com/@andygon/preserving-our-better-legislators-with-data-3726232f86f6						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
