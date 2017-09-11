@@ -15,9 +15,9 @@ To submit, add your link to the table below:
 | Week 7        | https://medium.com/@elutins/a-national-breakdown-of-craft-beer-717d67afe0ee |
 | Week 8        | https://medium.com/towards-data-science/boosting-in-machine-learning-and-the-implementation-of-xgboost-in-python-fb5365e9f2a0 |
 | Week 9        | https://medium.com/@elutins/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818 |
-| Week 10     https://medium.com/@elutins/grid-searching-in-machine-learning-quick-explanation-and-python-implementation-550552200596 |
+| Week 10       | https://medium.com/@elutins/grid-searching-in-machine-learning-quick-explanation-and-python-implementation-550552200596 |
 | Week 11       | https://medium.com/@elutins/how-to-survive-a-12-week-data-science-bootcamp-ca8bce87bff9|
-| Week 12       | **link**						|
+| Week 12       | https://medium.com/@elutins/mlb-gambling-trends-focus-on-the-over-under-and-home-field-advantage-b6667a03d03d					|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
