@@ -4,10 +4,10 @@ You will submit your ten blog posts via Github so the Outcomes team can check th
 
 To submit, add your link to the table below:
 
-| Week          | Link to Blog 				 	|
+| Week          | Link To Blog 				 	|
 | ------------- | ------------------------------|
-| Week 1        | `null` (do not edit)			|
-| Week 2        | `null` (do not edit)			|
+| Week 1        | `null` (Do not edit)			|
+| Week 2        | `null` (Do not edit)			|
 | Week 3        | **link**      				|
 | Week 4        | **link**      				|
 | Week 5        | **link**      				|
